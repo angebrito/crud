@@ -1,7 +1,5 @@
 
-
-Para executar é necessário usar o XAMPP (https://www.apachefriends.org/pt_br/index.html)
-O banco de dados é o MySQL do XAMPP (http://localhost/phpmyadmin/)<img src "https://img.shields.io/badge/-PHP-blue"/>
+<img src "https://img.shields.io/badge/-PHP-blue"/>
 
 Para executar é necessário usar o XAMPP (https://www.apachefriends.org/pt_br/index.html)
 O banco de dados é o MySQL do XAMPP (http://localhost/phpmyadmin/)
@@ -28,4 +26,4 @@ Autor
 Angelica Brito
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=angebrito)](https://github.com/angebrito/github-readme-stats)
-[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/ ? Username = angebrito& langs_count = 8 )] (https://github.com/angebrito/github-readme- Estatísticas)
+[! [Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=angebrito& langs_count=8)](https://github.com/angebrito/github-readme-Estatísticas)
