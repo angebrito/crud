@@ -1,5 +1,5 @@
 
-<img src "{https://img.shields.io/badge/-PHP-blue}"/>
+![image]({https://img.shields.io/badge/-PHP-blue})
 
 Para executar é necessário usar o XAMPP (https://www.apachefriends.org/pt_br/index.html)
 O banco de dados é o MySQL do XAMPP (http://localhost/phpmyadmin/)
