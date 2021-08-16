@@ -1,7 +1,4 @@
 
-![image]({https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
-})
-
 Para executar é necessário usar o XAMPP (https://www.apachefriends.org/pt_br/index.html)
 O banco de dados é o MySQL do XAMPP (http://localhost/phpmyadmin/)
 
